@@ -1,0 +1,8 @@
+import java.util.Scanner;
+
+public class Domino_Piling {
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        System.out.print(s.nextInt() * s.nextInt() / 2);
+    }
+}
